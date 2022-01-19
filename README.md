@@ -8,7 +8,7 @@ I'm using *Sql Server Management Studio* as Database Management System (DBMS).
 
 ## Contents
 
-This repository include:
+This repository includes:
 * Database model with the four table (Student, Enrollment, Courses, Teachers)
 * Records to populate the table
 * Examples of queries using the most important statements
